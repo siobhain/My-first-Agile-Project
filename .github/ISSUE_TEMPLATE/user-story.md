@@ -18,10 +18,5 @@ In order to **receive benefit** as a **role**, I can **goal / desire**
 * AC2
 
 ## Tasks
-* Task 1...
-body:
-- type: checkboxes
-  id: tasks
-  attributes:
-    label: What task is needed to get this user story done?
-    description: You may select more than one.
+-[] Task 1
+-[] Task 2 & so on...
