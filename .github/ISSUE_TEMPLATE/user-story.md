@@ -18,5 +18,5 @@ In order to **receive benefit** as a **role**, I can **goal / desire**
 * AC2
 
 ## Tasks
--[] Task 1
--[] Task 2 & so on...
+- []Task 1
+- []Task 2 & so on...
