@@ -22,5 +22,12 @@ In order to **receive benefit** as a **role**, I can **goal/desire**
 * AC2
 
 ## Tasks
+    
+    Once the dev team is comfy with the AC above then they can plan the technical work required to implement the US, The Dev team are responsible for identifying assigning and tracking tasks' progress
+  
+  Here list the technical work to be performed by the dev team to complete the user story
+  
+
+  
 - [ ] Task 1
 - [ ] Task 2 & so on...
