@@ -7,16 +7,20 @@ assignees: ''
 
 ---
 
-As a **(name your role/ what is your role)** I can **what you want to do (capability)** so that **(what is the value to you) received benefit**
+As a **(name your role/ what is your role)** I can 
+  
+**what you want to do (capability)** so that 
+  
+**(what is the value to you) received benefit**
 
 OR  
 
-In order to **receive benefit** as a **role**, I can **goal / desire**
+In order to **receive benefit** as a **role**, I can **goal/desire**
 
 ## Acceptance Criteria
 * AC1
 * AC2
 
 ## Tasks
-- []Task 1
-- []Task 2 & so on...
+- [ ] Task 1
+- [ ] Task 2 & so on...
