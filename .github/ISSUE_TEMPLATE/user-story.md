@@ -7,4 +7,6 @@ assignees: ''
 
 ---
 
-As a **role** I can **capability** so that **received benefit**
+As a **(name your role/ what is your role)** I can **what you want to do (capability) ** so that **(what is the value to you) received benefit**
+OR  
+In order to **receive benefit** as a **role**, I can **goal / desire**
