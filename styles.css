@@ -35,6 +35,7 @@ none {
   }
 
   .card {
+    margin-left: 2em;
     width: 200px;
     height: 300px;
     position: relative;
