@@ -14,25 +14,25 @@ none {
     grid-row-gap: 10px;
     }
 
-    footer {
-        background-color: #333;
-        color: #fff;
-        padding: 1em;
-        text-align: center;
-        font-size: xx-large;
-      }
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
  
-  footer a {
+footer a {
     text-decoration: none;
     padding: .3em;
     color: #fff;
-  }
+}
   
-  footer a:hover {
+footer a:hover {
     z-index: 1;
-    background-color: #0077b5;
+    background-color: #0077b5;  /* The LinkedIn blue */
     text-decoration: underline;
-  }
+}
 
   .card {
     margin-left: 2em;
